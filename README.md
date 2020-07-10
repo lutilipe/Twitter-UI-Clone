@@ -9,5 +9,7 @@
 # Twitter Interface
 > This is a clone of Twitter interface that I made based on [Rocketseat](https://rocketseat.com.br/). Hope you like!
 
+Click on the banner to visit the site!
+
 ## :pencil: License
 To view the license, check out [MIT](https://choosealicense.com/licenses/mit/)!
