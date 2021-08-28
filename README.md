@@ -7,7 +7,7 @@
 </a>
 
 # Twitter Interface
-> This is a clone of Twitter interface that I made based on [Rocketseat](https://rocketseat.com.br/). Hope you like!
+> This is a clone of Twitter interface that I made. Hope you like!
 
 Click on the banner to visit the site!
 
